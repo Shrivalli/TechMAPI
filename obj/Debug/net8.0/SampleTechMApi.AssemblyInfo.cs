@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleTechMApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+178325d113b4e1bb328a51da9bc017fc15a5b27a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleTechMApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleTechMApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

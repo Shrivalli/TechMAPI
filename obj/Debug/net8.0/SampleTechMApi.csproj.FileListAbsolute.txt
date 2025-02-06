@@ -31,3 +31,4 @@ E:\TechM\demos\SampleTechMApi\obj\Debug\net8.0\refint\SampleTechMApi.dll
 E:\TechM\demos\SampleTechMApi\obj\Debug\net8.0\SampleTechMApi.pdb
 E:\TechM\demos\SampleTechMApi\obj\Debug\net8.0\SampleTechMApi.genruntimeconfig.cache
 E:\TechM\demos\SampleTechMApi\obj\Debug\net8.0\ref\SampleTechMApi.dll
+E:\TechM\demos\SampleTechMApi\obj\Debug\net8.0\SampleTechMApi.sourcelink.json
